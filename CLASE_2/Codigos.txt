@@ -1,0 +1,72 @@
+<!–…–>	Define un comentario
+<!DOCTYPE>	Define el tipo de documento
+<a>	Define un hipervínculo
+<address>	Define la información de contacto del autor / propietario del documento
+<article>	Define un artículo
+<aside>	Define el contenido lateral del contenedor de una página
+<audio>	Define contenido de sonido
+<b>	Define texto en negrita
+<body>	Define el cuerpo del documento
+<br>	Define un salto de línea
+<button>	Define un botón clickeable
+<canvas>	Se usa para dibujar gráficos en pantalla
+<caption>	Define el título de una tabla
+<cite>	Define el título de un trabajo
+<code>	Define un trozo de código de programación
+<col>	Especifica las propiedades de la columna para cada columna del elemento <colgroup>
+<colgroup>	Especifica un grupo de una o más columnas de una tabla
+<div>	Define una sección en un documento
+<fieldset>	Grupo de elementos relacionados en un formulario
+<figcaption>	Define el título para una figura <figure>
+<figure>	Especifica auto-contenido
+<footer>	Define el pie de página de un documento
+<form>	Define un formulario html
+<h1> a <h6>	Define encabezados o títulos
+<head>	Define información hacerca del documento
+<header>	Define la sección de encabezado del docuemnto
+<hr>	Define un cámbio de temática a partir de una línea dibujada
+<html>	Define la raíz del documento
+<i>	Define una parte del texto de modo alternativo
+<iframe>	Define un frame en línea
+<img>	Define una imagen
+<input>	Define un control de entrada de texto
+<keygen>	Define un campo generador de claves para formularios
+<label>	Define el rótulo para un elemento <input>
+<legend> Define un título para los elementos <fieldset>, <figure>, <details>
+<li>	Define un ítem de una lista
+<meta>	Define un metadato de un documento
+<nav>	Define un link de navegación
+<ol>	Define una lista ordenada
+<option>	Define una opción en una lista desplegable
+<p>	Define un párrafo
+<script>	Define un script del lado cliente
+<section>	Define una sección de un documento
+<select>	Define un drop-down list
+<small>	Define texto pequeño
+<span>	Define una pequeña sección de un documento
+<strong>	Define un texto en negrita
+<style>	Define un estilo para la información de un documento
+<table>	Define una tabla
+<tbody>	Define el cuerpo de una tabla
+<td>	Define una celda en una tabla
+<textarea>	Define un control de entrada de múltiples líneas
+<tfoot>	Agrupa los footer contenidos en una tabla
+<th>	Define una celda de encabezado en una tabla
+<thead>	Agrupa los encabezados de una tabla
+<time>	Define fecha / hora
+<title>	Define un título para el documento
+<tr>	Define una fila en una tabla
+<ul>	Define una lista desordenada
+<video>	Define un vídeo o película
+
+
+
+
+
+
+
+ <a href="pages/index">Inicio</a>
+            <a href="pages/sobremi.html">SobreMi</a>
+            <a href="pages/galeria.html">Galeria</a>
+            <a href="pages/musica.html">Musica</a>
+            <a href="pages/contacto.html">Contacto</a>

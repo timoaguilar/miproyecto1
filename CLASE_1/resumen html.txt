@@ -1,0 +1,33 @@
+HTML
+5 paginas 
+
+index.html
+sobremi.html
+galeria.html
+contacto.html
+masinfo.html
+
+1) !- ABRIR ESTRUCTURA
+2) etiqueta que abre y cierra <head> para configurar. 
+3) TITULO CAMBIRALO EN <TITLE>
+4) adentro de <body> es donde el navegador va a poder visualizar
+5)abrir etiqueta en body <header> y separarlas.
+6) abrir en <header> etiqueta <h1> destinada a tener titulos 
+(la etiqueta header no se ve, la etiqueta h1 si)
+7) para subtitulos ir cambiando el numero de la H ej: <h2><h3>
+8) SI YO QUIERO PONER UN PARRAFO USO LA ETIQUETA P
+(si quiero usar parrafo de relleno, pongo <p> y escribo lorem)
+9) PONER AL FINAL DE LOREM ALT + Z
+10)PARA HACER SALTO DE LINEA PONER <BR>
+11)<!-- para escribir comentario y que no se vea
+12) abrir <header> 
+13)abrir img sin signo
+14) abrir nav sin signo 
+15) poner links : a
+(para poder poner inicio, sobre mi) Escribir en las <>
+16) EN IMG AGARRAR IMAGEN DE INTERNET PONIENDO EN GOOGLE: LOREM PICSUM copiar el link y pegarlo en IMG en las "
+17) escribir en img donde dice alt= esto es una imagen en las "
+18) abajo del cierre <header> poner etiqueta <main> y suprimir 
+19) poner <h1> Y ESCRIBIR ADENTRO 
+
+
